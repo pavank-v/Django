@@ -101,27 +101,3 @@ If you encounter issues with migrations, try the following:
 ## Contributing
 
 - If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
