@@ -31,8 +31,8 @@ This Django-based book app allows users to:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/django-book-app.git
-   cd django-book-app
+   git clone https://github.com/pavank1301/Django.git
+   cd BookLibrary
    ```
 
 2. **Set up a virtual environment:**
