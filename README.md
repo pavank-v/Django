@@ -14,18 +14,18 @@ This Django-based book app allows users to:
 
 1. **Book Recommendations**:
    - Provides book recommendations by using Google api.
-   - ![Screenshot (80)](https://github.com/user-attachments/assets/a35ece06-0e8f-45bf-a765-5201955289df)
+   ![Screenshot (80)](https://github.com/user-attachments/assets/a35ece06-0e8f-45bf-a765-5201955289df)
 2. **Search Functionality**:
    - Users can search for a book.
    - The app scrapes Amazon and Flipkart for book URLs.
    - Goodreads reviews are fetched and displayed.
-   - ![Screenshot (81)](https://github.com/user-attachments/assets/76bc4756-60db-4a8f-b078-4bc933095f59)
+   ![Screenshot (81)](https://github.com/user-attachments/assets/76bc4756-60db-4a8f-b078-4bc933095f59)
 3. **Favorites Page**:
    - Users can add and manage their favorite books.
-   - ![Screenshot (83)](https://github.com/user-attachments/assets/643818a3-8509-46ef-992b-23c51c1eb04d)
+   ![Screenshot (83)](https://github.com/user-attachments/assets/643818a3-8509-46ef-992b-23c51c1eb04d)
 4. **Search History**:
    - The app keeps a record of the user's search history.
-   - ![Screenshot (82)](https://github.com/user-attachments/assets/799780fd-d521-4146-8705-cb47ba876d2b)
+   ![Screenshot (82)](https://github.com/user-attachments/assets/799780fd-d521-4146-8705-cb47ba876d2b)
 
 ## Technologies Used
 
